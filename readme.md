@@ -1,8 +1,5 @@
-# Halil Kartal
-## Omix Ar-Ge Mühendisi
-### Tester - junior Front End Coder
+# Halil İ. Kartal
+## Omix R&D Engineer
 - Xml
 - Hardware Testing
 - Software Testing
-
-  
