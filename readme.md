@@ -1,5 +1,5 @@
-# Halil İ. Kartal
-## Omix R&D Engineer
+# Halil Kartal
+## OMIX R&D Engineer
 - Xml
 - Hardware Testing
 - Software Testing
